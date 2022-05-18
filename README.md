@@ -6,3 +6,6 @@ PWM (Pulse Width Modulation) One method that is often used for DC motor control 
 ![Snippet](https://github.com/TauqeerAhmad5201/PWM-Speed-Controller/blob/main/images/PWM.jpeg?raw=true)
 
 ## Video to demonstrate 
+
+https://user-images.githubusercontent.com/68806440/169046417-67aad03d-931a-4366-820b-d94b9d4f0799.mp4
+
